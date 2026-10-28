@@ -1,0 +1,19 @@
+# 1. Seguridad: Jamás subir variables de entorno ni contraseñas
+.env
+
+# 2. Datos pesados y modelos (en Git solo va el código, no las bases de datos)
+data/raw/*
+data/interim/*
+data/processed/*
+models/*.pkl
+models/*.joblib
+*.csv
+*.parquet
+
+# 3. Archivos temporales de Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
