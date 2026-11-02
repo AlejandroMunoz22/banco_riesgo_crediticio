@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+sqlalchemy
+pymssql
+python-dotenv
+tqdm
+scikit-learn
