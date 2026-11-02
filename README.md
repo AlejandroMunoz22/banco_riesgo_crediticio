@@ -1,7 +1,3 @@
-
-
-# 🏦 Credit Risk & Default Prediction Pipeline (End-to-End)
-Data engineering project, statistical models and artificial intelligence applied to bank credit risk using the realtional model from **Home Credit Default Risk**
 # Credit Risk & Default Prediction Pipeline (End-to-End)
 
 Data engineering, statistical modeling, and artificial intelligence project applied to bank credit risk using the relational dataset from **Home Credit Default Risk**.
